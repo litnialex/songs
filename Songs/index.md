@@ -1,7 +1,6 @@
 ---
 publish: hidden
 ---
-
 # Songbook
 
 Here are some songs dear to my heart, that I'm singing or learning to. 
