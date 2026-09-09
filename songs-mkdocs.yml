@@ -1,6 +1,8 @@
 site_name: Songs
 docs_dir: Songs
 site_dir: './site/Songs'
+site_url: https://sasha.canta.md/
+repo_url: https://github.com/litnialex/songs
 use_directory_urls: true #default is true and it does not work properly when browsing file://
 theme:
     name: 'material'
