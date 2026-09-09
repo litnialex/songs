@@ -42,3 +42,8 @@ markdown_extensions:
       permalink: true
 plugins:
   - search
+  - pub-meta: # https://mkdocs-publisher.github.io/development/other/backlog/
+      publish:
+        file_default: draft
+        key_name: publish
+

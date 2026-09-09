@@ -1,3 +1,4 @@
 mkdocs==1.*
 mkdocs-material==9.*
 mkdocs-material-extensions==1.*
+git+https://github.com/litnialex/mkdocs-publisher.git@fix/empty-slug-for-non-ascii-names
