@@ -41,9 +41,9 @@ jobs:
       - run: |
           mkdocs build -f songs-mkdocs.yml
       - run: |
-        if [ -n "${{ vars.CUSTOM_SITE }}" ]; then
-          echo "${{ vars.CUSTOM_SITE }}" > site/CNAME
-        fi
+          if [ -n "${{ vars.CUSTOM_SITE }}" ]; then
+            echo "${{ vars.CUSTOM_SITE }}" > site/CNAME
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
