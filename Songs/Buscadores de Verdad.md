@@ -78,6 +78,8 @@ când am fost atent, când m-am distras (nu am văzut)
 
 Și astfel, mergând, caut să devin mai bun,  
 Călători ai luminii, căutători ai adevărului (x5)
+
 ## Links
 - https://youtu.be/VED9N-MMIrQ?si=3wNhQTi-Nw2UyIil
-- [spotify](https://open.spotify.com/track/5mwD1wvm4pbyzlcO6dzuEI?si=71514b4b66bc45af)
+- https://open.spotify.com/track/5mwD1wvm4pbyzlcO6dzuEI?si=71514b4b66bc45af
+
