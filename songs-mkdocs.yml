@@ -8,7 +8,7 @@ theme:
     name: 'material'
     #custom_dir: overrides
     features:
-      - navigation.top # back-to-top button when scrolling up
+      - navigation.top # back-to-top button when scrolling down
       - header.autohide # header is automatically hidden when the user scrolls
 
     palette:
@@ -42,8 +42,8 @@ markdown_extensions:
       permalink: true
 plugins:
   - search
-  - pub-meta: # https://mkdocs-publisher.github.io/development/other/backlog/
-      publish:
-        file_default: draft
-        key_name: publish
+#  - pub-meta: # https://mkdocs-publisher.github.io/development/other/backlog/
+#      publish:
+#        file_default: draft
+#        key_name: publish
 

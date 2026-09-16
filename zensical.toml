@@ -1,0 +1,46 @@
+[project]
+site_url = "https://sasha.canta.md/"
+site_name = "Songs"
+repo_url = "https://github.com/litnialex/songs"
+
+docs_dir = "Songs"
+site_dir = "site-zensical"
+use_directory_urls = true
+#plugins = ["awesome-nav"]
+
+[project.theme]
+language = "en"
+features = [
+  "navigation.top",
+  "header.autohide",
+]
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light theme"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "pink"
+accent = "deep-purple"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark theme"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "pink"
+accent = "purple"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+[project.markdown_extensions]
+footnotes = {}
+def_list = {}
+pymdownx.magiclink = {}
+pymdownx.caret.smart_insert = false
+pymdownx.mark.smart_mark = false
+toc.permalink = true
+

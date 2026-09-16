@@ -33,11 +33,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - run: pip3 install -r songs-mkdocs-req.txt
-      # Each mkdocs config below sets its own site_dir under site/
-      # (e.g. songs-mkdocs.yml uses site_dir: ./site/Songs), so the three
-      # builds land in separate subfolders and get combined rather than
-      # overwriting one another
+      - run: pip3 install mkdocs-extensions mkdocs-material
       - run: |
           mkdocs build -f songs-mkdocs.yml
       - name: Upload artifact
