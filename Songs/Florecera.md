@@ -1,6 +1,3 @@
----
-publish: "true"
----
 > Received from Mirea.
 > Author is, probably, Karin Michaeli.
 

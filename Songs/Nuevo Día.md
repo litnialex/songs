@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Mireia Berdún Colom
 
 > Esta canción llegó en un lindo amanecer en mi 9º día en la montaña de Visión en Italia, relata el momento que estaba viendo, viviendo, percibiendo y sintiendo. Trae la esperanza del nuevo amanecer, de las nuevas oportunidades y de aquello que queremos crear con nuestro pensamiento.  

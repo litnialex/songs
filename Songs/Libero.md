@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Mireia Berdún Colom
 > Este canto es de una hermana muy querida que ya partió a las estrellas, Aurora Muela. Siempre en mi corazón.
 

@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Canto de  Ilein Kuymin
 
 > Received from my sister Christina

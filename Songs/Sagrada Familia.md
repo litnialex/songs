@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Pablo Mae D'Agua  
 Águila del norte  
 Vigilante vuelo  

@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Akari Tamura
 
 Shamu==ri==ri riri==ri== shamuan ==ku==nay caya==ri==,  

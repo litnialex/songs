@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Letra y música de Mireia Berdún Colom
 
 Mira quien viene, quien esta llegando,  

@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Autor: Elena Șulea
   
 La rădăcină viața e plină,  

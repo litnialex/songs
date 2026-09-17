@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Diego Palma
 
 Amanece el día y es otra oportunidad  

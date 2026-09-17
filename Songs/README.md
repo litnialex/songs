@@ -1,6 +1,3 @@
----
-publish: hidden
----
 # Sasha's Songbook
 
 Here are some songs dear to my heart, that I'm singing or learning to sing. 

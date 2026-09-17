@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Nick Barbachano
 
 Down in a forest  

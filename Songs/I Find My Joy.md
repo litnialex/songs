@@ -1,6 +1,3 @@
----
-publish: "true"
----
 > Received from my sister Anika
 
 I find my joy in the simple things, coming from the Earth  

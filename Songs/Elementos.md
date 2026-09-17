@@ -1,6 +1,3 @@
----
-publish: "true"
----
 
 > received from Mireia Berdún Colom
 

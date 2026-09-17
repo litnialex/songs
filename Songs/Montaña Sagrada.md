@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Mariana Cortesão
 
 Tra na nai na nai na nai nai (x4)  

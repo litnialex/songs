@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Mireia Berdún Colom
 
 Pido a los seres que me acompañan  

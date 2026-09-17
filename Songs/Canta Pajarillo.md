@@ -1,6 +1,3 @@
----
-publish: "true"
----
 ## Author: Santiago Carhuancho (Peru)
 
 Canta pajarito canta pajarito  
