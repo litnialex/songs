@@ -1,4 +1,4 @@
-site_name: Songs
+site_name: sasha.canta.md
 docs_dir: Songs
 site_dir: './site/Songs'
 site_url: https://sasha.canta.md/
@@ -8,7 +8,7 @@ theme:
     name: 'material'
     #custom_dir: overrides
     features:
-      - navigation.top # back-to-top button when scrolling down
+      - navigation.top # back-to-top button when scrolling up
       - header.autohide # header is automatically hidden when the user scrolls
 
     palette:
