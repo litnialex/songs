@@ -11,7 +11,7 @@ E tem um segredo profundo
   
 Este segredo profundo  
 Está em toda a humanidade  
-Se todos se conhecerem 
+Se todos se conhecerem  
 Aqui dentro da verdade  
   
 ## Español
